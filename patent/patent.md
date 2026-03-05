@@ -112,6 +112,34 @@ templates/요약서.md 양식에 따라 작성
 
 ## 관련 템플릿
 
+### 기본 템플릿
 - `templates/명세서.md` - 명세서 작성 양식
 - `templates/청구항.md` - 청구항 작성 가이드
 - `templates/요약서.md` - 요약서 작성 양식
+
+### 심화 템플릿
+- `templates/거절이유_대응.md` - 거절이유통지 대응 가이드
+- `templates/XML_양식.md` - 특허청 전자출원 XML 양식
+
+### 예시 파일
+- `examples/샘플_AI서비스_특허.md` - 실제 등록된 AI 특허 분석 예시
+
+---
+
+## 도구 가이드
+
+### 분류 및 검색
+- `tools/IPC_분류.md` - IPC 코드 자동 추천 가이드
+- `tools/KIPRIS_API.md` - KIPRIS Open API 연동 (Python/Node.js)
+
+### 도면 및 문서
+- `tools/Mermaid_도면.md` - Mermaid 기반 특허 도면 자동화
+
+### 청구항 작성
+- `tools/청구항_프롬프트.md` - AI 청구항 자동 생성 프롬프트
+
+### 심사 대응
+- `tools/거절패턴_분석.md` - 심사관 거절 패턴 분석 가이드
+
+### 고급 기능
+- `tools/RAG_구축.md` - 특허 RAG 시스템 구축 가이드
